@@ -94,7 +94,7 @@ Feel free to fork the repository, make improvements, and submit pull requests. F
 For any questions or feedback regarding this project, please reach out:
 - [Email](mailto:muhammadusman.becsef22@iba-suk.edu.pk)
 - [LinkedIn](https://www.linkedin.com/muhammad-usman-018535253/)
-- For more information about the company, visit [Elevvo Pathways LinkedIn Profile]([https://www.elevvo-pathways.com](https://www.linkedin.com/company/elevvopaths/posts/?feedView=all)
+- For more information about the company, visit [Elevvo Pathways LinkedIn Profile](https://www.linkedin.com/company/elevvopaths/posts/?feedView=all)
 
 
 ## Acknowledgments
