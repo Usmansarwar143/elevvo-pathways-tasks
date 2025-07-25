@@ -95,4 +95,4 @@ The dataset is provided as `covtype.rar` due to its size. Uncompress it to acces
 - **Elevvo Pathways**: For providing this internship opportunity and guidance.
 - **UCI Machine Learning Repository**: For the Covertype dataset.
 
-For questions or contributions, please open an issue or contact me via [LinkedIn](<your-linkedin-profile>).
+For questions or contributions, please open an issue or contact me via [LinkedIn](https://www.linkedin.com/in/muhammad-usman-018535253).
